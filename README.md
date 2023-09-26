@@ -1,13 +1,13 @@
 # Web-based Video Analytics System (VAS)
 
 ## Table of contents:
-1. [Introduction](https://github.com/thompsondd/Web-based-Video-Analytics-System/main/README.md#1-introduction)
+1. [Introduction](https://github.com/thompsondd/Web-based-Video-Analytics-System/blob/main/README.md#1-introduction)
 
-2. [Project Detail](https://github.com/thompsondd/Web-based-Video-Analytics-System/edit/README.md#2-project-detail)
+2. [Project Detail](https://github.com/thompsondd/Web-based-Video-Analytics-System/blob/main/README.md#2-project-detail)
 
-3. [Website Interface](https://github.com/thompsondd/Web-based-Video-Analytics-System/edit/main/README.md#3-website-interface)
+3. [Website Interface](https://github.com/thompsondd/Web-based-Video-Analytics-System/blob/main/README.md#3-website-interface)
    
-4. [Demonstrations of Results](https://github.com/thompsondd/Web-based-Video-Analytics-System/main/README.md#4-demonstrations-of-results)
+4. [Demonstrations of Results](https://github.com/thompsondd/Web-based-Video-Analytics-System/blob/main/README.md#4-demonstrations-of-results)
 
 
 
@@ -30,11 +30,9 @@
    ```
 - **Accessing Results**: 
    - You can access all detailed results in my [OneDrive](https://uithcm-my.sharepoint.com/:f:/g/personal/20521159_ms_uit_edu_vn/EgRsm2lULAZGgPnSBl5f6DIB3ACk0cvPjidJLSTcYK0ctg?e=yvsRme) or my [playlist in Youtube](https://www.youtube.com/playlist?list=PLkZll_xtzt8rNelPKHMucVeOEtLTr5I_c) due to their large file sizes.
-   - For a more condensed presentation, please visit the [demonstration section](https://gitlab.com/international-society-of-data-scientists-course/entrance-test/video-object-detection/-/edit/main/Readme.md#3-demonstrations-of-results).
+   - For a more condensed presentation, please visit the [demonstration section](https://gitlab.com/international-society-of-data-scientists-course/entrance-test/video-object-detection/blob/main/Readme.md#3-demonstrations-of-results).
 
-
-
-- For a deeper understanding of the project's structure, you're invited to explore the [Project Detail section](https://github.com/thompsondd/Web-based-Video-Analytics-System/edit/README.md#2-project-detail).
+- For a deeper understanding of the project's structure, you're invited to explore the [Project Detail section](https://github.com/thompsondd/Web-based-Video-Analytics-System/blob/main/README.md#2-project-detail).
 
 ## 2. Project Detail
 
