@@ -1,13 +1,13 @@
 # Web-based Video Analytics System (VAS)
 
 ## Table of contents:
-1. [Introduction](https://gitlab.com/international-society-of-data-scientists-course/entrance-test/web-based-video-analytics-system#1-introduction)
+1. [Introduction](https://github.com/thompsondd/Web-based-Video-Analytics-System/main/README.md#1-introduction)
 
-2. [Project Detail](https://gitlab.com/international-society-of-data-scientists-course/entrance-test/web-based-video-analytics-system#4-project-detail)
+2. [Project Detail](https://github.com/thompsondd/Web-based-Video-Analytics-System/edit/README.md#2-project-detail)
 
-3. [Website Interface](https://gitlab.com/international-society-of-data-scientists-course/entrance-test/web-based-video-analytics-system#2-website-interface)
+3. [Website Interface](https://github.com/thompsondd/Web-based-Video-Analytics-System/edit/main/README.md#3-website-interface)
    
-4. [Demonstrations of Results](https://gitlab.com/international-society-of-data-scientists-course/entrance-test/web-based-video-analytics-system#3-demonstrations-of-results)
+4. [Demonstrations of Results](https://github.com/thompsondd/Web-based-Video-Analytics-System/main/README.md#4-demonstrations-of-results)
 
 
 
@@ -18,7 +18,7 @@
    - **Web Interface**: Develop a sleek web-based interface to facilitate data input and showcase visualized analysis outcomes.
 
 - **Running System**:
-   - Install dependencies of project
+   - Install dependencies of the project
    ```
    cd [YOUR PROJECT PATH]
    pip install -r requirements.txt
@@ -34,7 +34,7 @@
 
 
 
-- For a deeper understanding of the project's structure, you're invited to explore the [Project Detail section](https://gitlab.com/international-society-of-data-scientists-course/entrance-test/video-object-detection/-/edit/main/Readme.md#4-project-detail).
+- For a deeper understanding of the project's structure, you're invited to explore the [Project Detail section](https://github.com/thompsondd/Web-based-Video-Analytics-System/edit/README.md#2-project-detail).
 
 ## 2. Project Detail
 
@@ -45,21 +45,21 @@
 
 - **Technogies Using** :
    - **Streamlit**: The project use [_streamlit_](https://streamlit.io/) library to build the website. The source code is in file [main.py](./main.py) in the project.
-   - **YOLO Models Family**: YOLO version 8 is used for detecting person in each frame of video and visualizing their bounding box, before using opencv for concatenating processed frames as an output video including required information.The source code is in file [yolo.py](./yolo.py) in the project.
+   - **YOLO Models Family**: YOLO version 8 is used for detecting a person in each frame of video and visualizing their bounding box, before using OpenCV for concatenating processed frames as an output video including required information. The source code is in file [yolo.py](./yolo.py) in the project.
 
 
 ## 3. Website Interface
-- When running the application, if GPUs are not detected, there will have 2 line of notifications in the head of page.
-### Upload from local interface
+- When running the application, if GPUs are not detected, there will be lines of notifications at the head of the page.
+### Upload from local
    ![Can't import image](./Doc/Images/local_upload.png)
    
 
-### Upload from URL interface
+### Upload from URL
    ![Can't import image](./Doc/Images/url_upload.png)
    
 
 ### Outputs visualization interface
-   - The interface of outputs visualization are same in both of uploading video from local and URL
+   - The interface for visualizing the output remains the same, whether uploading a video from your local device or through a URL.
    ![Can't import image](./Doc/Images/visualization.png)
 ## 4. Demonstrations of Results
 
