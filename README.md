@@ -30,7 +30,7 @@
    ```
 - **Accessing Results**: 
    - You can access all detailed results in my [OneDrive](https://uithcm-my.sharepoint.com/:f:/g/personal/20521159_ms_uit_edu_vn/EgRsm2lULAZGgPnSBl5f6DIB3ACk0cvPjidJLSTcYK0ctg?e=yvsRme) or my [playlist in Youtube](https://www.youtube.com/playlist?list=PLkZll_xtzt8rNelPKHMucVeOEtLTr5I_c) due to their large file sizes.
-   - For a more condensed presentation, please visit the [demonstration section](https://gitlab.com/international-society-of-data-scientists-course/entrance-test/video-object-detection/blob/main/Readme.md#3-demonstrations-of-results).
+   - For a more condensed presentation, please visit the [demonstration section](https://github.com/thompsondd/Web-based-Video-Analytics-System/blob/main/README.md#4-demonstrations-of-results).
 
 - For a deeper understanding of the project's structure, you're invited to explore the [Project Detail section](https://github.com/thompsondd/Web-based-Video-Analytics-System/blob/main/README.md#2-project-detail).
 
