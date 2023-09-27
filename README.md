@@ -33,7 +33,12 @@
    - For a more condensed presentation, please visit the [demonstration section](https://github.com/thompsondd/Web-based-Video-Analytics-System/blob/main/README.md#4-demonstrations-of-results).
 
 - For a deeper understanding of the project's structure, you're invited to explore the [Project Detail section](https://github.com/thompsondd/Web-based-Video-Analytics-System/blob/main/README.md#2-project-detail).
-
+- **Note**:
+   - [Update 27/9/2023]
+      - If you have error regarding to pytube, please uninstall pytube and use below code to install fixed version.
+         ```
+         pip install git+https://github.com/thompsondd/pytube.git
+         ``` 
 ## 2. Project Detail
 
 - **Output Video Information**:
