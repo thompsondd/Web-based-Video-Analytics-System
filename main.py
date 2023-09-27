@@ -77,8 +77,11 @@ with tab2:
                 stream.download(config["upload_folder"],"ignore_url_temp.mp4")
 
             path_url = os.path.join(config["upload_folder"],"ignore_url_temp.mp4")
+        except Exception as e:
+            status = st.warning("Library error - The error is from the pytube library")
+            status = st.warning("Please wait for finding the alternatives")
             
-            
+        try:
             col1, col2 = st.columns(2)
             with col1:
                 status = st.header('Video from URL', divider='rainbow')
