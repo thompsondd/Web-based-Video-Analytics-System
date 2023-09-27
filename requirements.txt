@@ -1,5 +1,5 @@
 tqdm
 torch
-pytube
+git+https://github.com/thompsondd/pytube.git
 streamlit
 ultralytics
