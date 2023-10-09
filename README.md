@@ -35,7 +35,7 @@
 - For a deeper understanding of the project's structure, you're invited to explore the [Project Detail section](https://github.com/thompsondd/Web-based-Video-Analytics-System/blob/main/README.md#2-project-detail).
 - **Note**:
    - [Update 27/9/2023]
-      - If you have error regarding to pytube, please uninstall pytube and use below code to install fixed version.
+      - If you have an error regarding pytube, please uninstall pytube and use the below code to install the fixed version.
          ```
          pip install git+https://github.com/thompsondd/pytube.git
          ``` 
@@ -46,7 +46,7 @@
 
    - **Visual Object Annotations**: The video features an interactive canvas that visually highlights detected objects. Each frame showcases bounding boxes around the objects, along with their corresponding names, all synchronized seamlessly with the video playback.
 
-- **Technogies Using** :
+- **Technologies Using** :
    - **Streamlit**: The project use [_streamlit_](https://streamlit.io/) library to build the website. The source code is in file [main.py](./main.py) in the project.
    - **YOLO Models Family**: YOLO version 8 is used for detecting a person in each frame of video and visualizing their bounding box, before using OpenCV for concatenating processed frames as an output video including required information. The source code is in file [yolo.py](./yolo.py) in the project.
 
